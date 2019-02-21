@@ -1,4 +1,4 @@
-# Decision Tree Implementation in Python with Visualization using Graphviz
+Decision Tree Implementation in Python with Visualization using Graphviz
 
 ==========================================================================
 
