@@ -1,6 +1,5 @@
 Decision Tree Implementation in Python with Visualization using Graphviz
-
-==========================================================================
+========================================================================
 
 Minimum Python 3.5 is required for this project.
 
